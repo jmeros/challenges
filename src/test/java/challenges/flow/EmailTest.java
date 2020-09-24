@@ -6,6 +6,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.JUnit4;
 
+import challenges.flow.adapters.EmailAdapter;
+import challenges.flow.agents.UserAgent;
+
 import java.util.HashMap;
 import java.util.Map;
 
